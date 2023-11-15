@@ -31,7 +31,6 @@
       <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" title="mysql"/></code>
       <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" title="postgresql"/></code>
     </div>
-
     <div>Инструменты</div>
     <div>
         <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/></code>
@@ -48,7 +47,7 @@
         <code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" title="webpack"></code>
         <code><img width="50" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" title="jest"/></code>        
     </div>
-  </div> 
 </div> 
+
 
 
