@@ -1,4 +1,5 @@
 <div align="center" >Здравствуйте! Я Fullstack JS|TS разработчик.</div>
+<div align="center" >Разрабатываю приложения любой сложности</div>
 </br>
 
 
